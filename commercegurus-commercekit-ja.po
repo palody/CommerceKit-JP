@@ -1,0 +1,2545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CommerceGurus Commercekit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-17 16:56+0530\n"
+"PO-Revision-Date: 2022-09-21 14:05+0900\n"
+"Last-Translator: Patrick Lofstrom <patricklofstrom@gmail.com>\n"
+"Language-Team: 日本語\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: includes/admin-wishlist.php:54
+msgid "&ldquo;Add to wishlist&rdquo; text"
+msgstr "「欲しいものリストに追加する」テキスト"
+
+#: includes/admin-wishlist.php:56
+msgid "&ldquo;Browse wishlist&rdquo; text"
+msgstr "「欲しいものリストを見る」テキスト"
+
+#: includes/admin-ajax-search.php:64
+msgid "&ldquo;No results&rdquo; text"
+msgstr "「結果なし」テキスト"
+
+#: includes/admin-ajax-search.php:63
+msgid "&ldquo;Other results&rdquo; text"
+msgstr "「他の結果」テキスト"
+
+#: includes/admin-wishlist.php:55
+msgid "&ldquo;Product added&rdquo; text"
+msgstr "「商品追加」テキスト"
+
+#: includes/admin-ajax-search.php:65
+msgid "&ldquo;View all&rdquo; text"
+msgstr "「すべて見る」テキスト"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid ""
+"- i.e. you sell items which all have colors and sizes, and you wish to display "
+"these on the catalog."
+msgstr ""
+"- 例えば、色やサイズの揃った商品を販売していて、それをカタログに表示したい場合。"
+
+#: includes/admin-dashboard.php:439
+msgid "2Kb of HTML"
+msgstr "2Kb の HTML"
+
+#: includes/admin-dashboard.php:252 includes/admin-dashboard.php:476
+msgid "3Kb of HTML"
+msgstr "3Kb の HTML"
+
+#: includes/admin-dashboard.php:177
+msgid "7Kb of HTML"
+msgstr "7Kb の HTML"
+
+#: includes/admin-dashboard.php:324
+msgid "80%+ lighter than the core gallery"
+msgstr "コアギャラリーに比べ80%以上の軽量化"
+
+#: includes/admin-dashboard.php:70 includes/admin-dashboard.php:511
+msgid "9Kb of HTML"
+msgstr "9Kb の HTML"
+
+#: includes/admin-support.php:30
+msgid "A link where we can see the issue"
+msgstr "問題を確認できるリンク"
+
+#: includes/admin-attribute-swatches-settings.php:55
+msgid ""
+"A maximum of two attributes will appear on product listings pages. Quick add to "
+"cart will only work with two or fewer attributes."
+msgstr ""
+"商品一覧ページには、最大2つの属性が表示されます。クイックカート追加は、2つ以下の"
+"属性で動作します。"
+
+#: includes/modules.php:164
+msgid "A product you are waiting for is back in stock!"
+msgstr "ほしい物リストの商品が再入荷しました！"
+
+#: includes/admin-attribute-swatches-settings.php:148
+msgid ""
+"A replacement for the core WooCommerce product variation dropdowns with color / "
+"image / button display options that will significantly improve user experience "
+"on product and listing pages."
+msgstr ""
+"WooCommerce のコア商品バリエーションドロップダウンを色・画像・ボタン表示オプショ"
+"ンで置き換え、商品ページとリストページのユーザーエクスペリエンスを大幅に向上させ"
+"ます。"
+
+#: includes/admin-dashboard.php:432
+msgid ""
+"A visually effective way to alert customers when the stock is low on product "
+"pages."
+msgstr "商品ページで在庫が少なくなったことを視覚的に効果的に知らせる方法です。"
+
+#: includes/admin-wishlist.php:118
+msgid ""
+"A wishlist allows shoppers to create personalized collections of products they "
+"want to buy and save them for future reference."
+msgstr ""
+"欲しいものリストは、お客様が買いたい商品のパーソナライズされたコレクションを作成"
+"し、将来参照するために保存することができるものです。"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "about the CommerceKit Product Gallery."
+msgstr "CommerceKit 商品ギャラリーについて確認できます。"
+
+#: includes/admin-attribute-swatches-settings.php:62
+msgid "Activate Quick add to cart"
+msgstr "クイックカート追加を有効にする"
+
+#: includes/admin-dashboard.php:79 includes/admin-dashboard.php:116
+#: includes/admin-dashboard.php:153 includes/admin-dashboard.php:186
+#: includes/admin-dashboard.php:225 includes/admin-dashboard.php:263
+#: includes/admin-dashboard.php:298 includes/admin-dashboard.php:335
+#: includes/admin-dashboard.php:373 includes/admin-dashboard.php:413
+#: includes/admin-dashboard.php:449 includes/admin-dashboard.php:485
+#: includes/admin-dashboard.php:522
+msgid "Active"
+msgstr "有効"
+
+#: includes/admin-pdp-triggers.php:21
+#, php-format
+msgid "Add &ldquo;%s&rdquo; to replace the percentage, "
+msgstr "「%s」を追加するとパーセンテージが変更します、"
+
+#: includes/admin-inventory-bar.php:20 includes/admin-inventory-bar.php:28
+#, php-format
+msgid "Add &ldquo;%s&rdquo; to replace the stock number, "
+msgstr "「%s」を追加すると在庫数が変更します、"
+
+#: includes/templates/admin-product-attributes-gallery.php:30
+msgid "Add a gallery to:"
+msgstr "ギャラリーを追加:"
+
+#: includes/templates/admin-product-attributes-gallery.php:60
+msgid "Add gallery"
+msgstr "ギャラリー追加"
+
+#: includes/templates/admin-attribute-swatches.php:43
+msgid "Add image"
+msgstr "画像追加"
+
+#: includes/templates/admin-attribute-swatches.php:32
+msgid "Add Image to Attribute Swatches"
+msgstr "属性スウォッチに画像を追加"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Add images"
+msgstr "画像を追加"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Add Images to Product Gallery"
+msgstr "商品ギャラリーに画像を追加"
+
+#: includes/admin-order-bump.php:181
+msgid "Add new order bump"
+msgstr "新しいオーダーバンプを追加"
+
+#: includes/admin-badge.php:175
+msgid "Add new product badge"
+msgstr "新しい商品バッジを追加"
+
+#: includes/admin-countdown-timer.php:212
+msgid "Add new product countdown"
+msgstr "新しい商品カウントダウンを追加"
+
+#: includes/templates/admin-attribute-swatches.php:32
+msgid "Add to Attribute Swatches"
+msgstr "属性スウォッチに追加"
+
+#: includes/module-wishlist.php:376
+msgid "Add to Cart"
+msgstr "カートに追加"
+
+#: includes/module-sticky-atc-bar.php:62
+#: includes/templates/commercekit-tabs.php:58
+#: includes/templates/commercekit-tabs.php:93
+msgid "Add to cart"
+msgstr "カートに追加"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-attributes-gallery.php:157
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Add to gallery"
+msgstr "ギャラリーに追加"
+
+#: includes/modules.php:174
+msgid "Add to wishlist"
+msgstr "ほしい物リストに追加"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+msgid "Add video to Attributes Gallery"
+msgstr "属性ギャラリーに動画を追加"
+
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Add video to Product Gallery"
+msgstr "商品ギャラリーに動画を追加"
+
+#: includes/admin-order-bump.php:50 includes/module-order-bump.php:37
+#: includes/module-order-bump.php:56
+msgid "Added!"
+msgstr "追加しました！"
+
+#: includes/admin-dashboard.php:33
+msgid "Additional Sales"
+msgstr "追加販売"
+
+#: includes/admin-dashboard.php:396
+msgid ""
+"Adds a conversion-friendly sticky add to cart bar on mobile and desktop. Can "
+"also expand the default WooCommerce tabs."
+msgstr ""
+"モバイルとデスクトップでコンバージョンに適した固定カート追加バーを追加します。 "
+"WooCommerce 既定のタブを拡張することも可能です。"
+
+#: includes/admin-ajax-search.php:126 includes/admin-dashboard.php:60
+#: includes/admin-settings.php:380
+msgid "Ajax Search"
+msgstr "Ajax 検索"
+
+#: includes/admin-ajax-search.php:50
+msgid "Ajax Search Reports"
+msgstr "Ajax 検索レポート"
+
+#: includes/admin-ajax-search.php:53
+msgid "Ajax Search Settings"
+msgstr "Ajax 検索設定"
+
+#: includes/admin-waitlist.php:79
+msgid "All"
+msgstr "全部"
+
+#: includes/admin-badge.php:52 includes/admin-badge.php:119
+#: includes/admin-countdown-timer.php:77 includes/admin-countdown-timer.php:163
+#: includes/admin-inventory-bar.php:51 includes/admin-order-bump.php:60
+#: includes/admin-order-bump.php:134
+msgid "All categories apart from"
+msgstr "を除く全カテゴリー"
+
+#: includes/admin-ajax-search.php:60
+msgid "All contents"
+msgstr "全コンテンツ"
+
+#: includes/admin-badge.php:48 includes/admin-badge.php:115
+#: includes/admin-countdown-timer.php:73 includes/admin-countdown-timer.php:159
+#: includes/admin-inventory-bar.php:47 includes/admin-order-bump.php:56
+#: includes/admin-order-bump.php:130
+msgid "All products"
+msgstr "全商品"
+
+#: includes/admin-badge.php:50 includes/admin-badge.php:117
+#: includes/admin-countdown-timer.php:75 includes/admin-countdown-timer.php:161
+#: includes/admin-inventory-bar.php:49 includes/admin-order-bump.php:58
+#: includes/admin-order-bump.php:132
+msgid "All products apart from"
+msgstr "を除くすべての製品"
+
+#: includes/admin-dashboard.php:170
+msgid ""
+"Allows you to run time-limited promotions to create urgency and drive more "
+"clicks."
+msgstr ""
+"時間制限のあるプロモーションを実施することで、緊急性を高め、より多くのクリックを"
+"促すことができます。"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "alternative swatches plugin"
+msgstr "代替の属性スウォッチプラグイン"
+
+#: includes/admin-dashboard.php:317
+msgid ""
+"An improved product gallery with multiple layout options and video support. "
+"Built for performance."
+msgstr ""
+"複数のレイアウトオプションと動画サポートを備えた、改良された製品ギャラリー。パ"
+"フォーマンスを向上させるために構築されました。"
+
+#: includes/admin-order-bump.php:189
+msgid ""
+"An order bump allows a user to add an additional item to the cart, before they "
+"complete an order. Only one order bump is displayed at a time on the checkout "
+"page."
+msgstr ""
+"オーダーバンプは、ユーザーが注文を完了する前に、カートに商品を追加することを可能"
+"にします。チェックアウトページに一度に表示されるのは、1つのオーダーバンプのみで"
+"す。"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "and include it in a"
+msgstr "を作成し、それを"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid ""
+"Are you sure you want to cancel all pending attribute swatches cache events?"
+msgstr "本当に保留中の属性スウォッチのキャッシュイベントをすべて取り消しますか？"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Are you sure you want to clear and rebuild the attribute swatches cache?"
+msgstr "本当に属性スウォッチのキャッシュをクリアし再構築しますか？"
+
+#: includes/admin-badge.php:171
+msgid "Are you sure you want to delete this product badge?"
+msgstr "本当にこの商品バッジを削除しますか？"
+
+#: includes/admin-countdown-timer.php:208
+msgid "Are you sure you want to delete this product countdown?"
+msgstr "本当にこの商品カウントダウンを削除しますか？"
+
+#: includes/admin-order-bump.php:177
+msgid "Are you sure you want to delete this product order bump?"
+msgstr "本当にこの商品オーダーバンプを削除しますか？"
+
+#: includes/templates/admin-product-attributes-gallery.php:161
+msgid "Are you sure, you want to delete this Gallery?"
+msgstr "本当にこのギャラリーを削除しますか？"
+
+#: includes/templates/admin-product-attributes-gallery.php:66
+msgid "Attribute Galleries"
+msgstr "属性ギャラリー"
+
+#: includes/admin-attribute-swatches-settings.php:40
+#: includes/admin-attribute-swatches-settings.php:147
+#: includes/admin-attribute-swatches.php:17 includes/admin-dashboard.php:129
+#: includes/admin-settings.php:382
+msgid "Attribute Swatches"
+msgstr "属性スウォッチ"
+
+#: includes/admin-settings.php:1075
+msgid "Attribute swatches cache has been cleared."
+msgstr "属性スウォッチのキャッシュをクリアしました。"
+
+#: includes/admin-settings.php:1054
+msgid ""
+"Attribute swatches cache is building in the background. You can clear or start "
+"rebuilding when this background process has completed."
+msgstr ""
+"属性スウォッチのキャッシュはバックグラウンドで構築されています。このバックグラウ"
+"ンド処理が完了した時点で、削除または再構築を開始することができます。"
+
+#: includes/admin-attribute-swatches-settings.php:60
+msgid "Attribute Swatches on Listing Pages"
+msgstr "リスティングページの属性スウォッチ"
+
+#: includes/admin-attribute-swatches-settings.php:52
+msgid "Attribute Swatches on Product Listing Pages"
+msgstr "商品一覧ページの属性スウォッチ"
+
+#: includes/admin-attribute-swatches-settings.php:44
+msgid "Attribute Swatches on Product Pages"
+msgstr "商品ページでの属性スウォッチ"
+
+#: includes/admin-dashboard.php:92 includes/admin-pdp-attributes-gallery.php:12
+#: includes/admin-pdp-attributes-gallery.php:27
+#: includes/admin-pdp-attributes-gallery.php:35 includes/admin-settings.php:381
+#: includes/commercegurus-attributes-gallery-functions.php:157
+msgid "Attributes Gallery"
+msgstr "属性ギャラリー"
+
+#: includes/templates/admin-product-attributes-gallery.php:142
+#: includes/templates/admin-product-video-gallery.php:24
+msgid "Autoplay video?"
+msgstr "動画は自動再生しますか？"
+
+#: includes/admin-waitlist.php:181
+msgid ""
+"Available placeholders: {site_name}, {site_url}, {product_title}, "
+"{product_sku}, {product_link}, {customer_email}"
+msgstr ""
+"利用可能なプレースホルダー: {site_name}, {site_url}, {product_title}, "
+"{product_sku}, {product_link}, {customer_email}"
+
+#: includes/admin-free-shipping-notification.php:29
+msgid "Available shortcode: {free_shipping_amount}"
+msgstr "利用可能なショートコード: {free_shipping_amount}"
+
+#: includes/admin-free-shipping-notification.php:30
+msgid "Available shortcode: {remaining}"
+msgstr "利用可能なショートコード: {remaining}"
+
+#: includes/pdp-attributes-gallery-grid.php:101
+#: includes/pdp-attributes-gallery-scroll.php:92
+#: includes/pdp-attributes-gallery-swiper.php:91 includes/pdp-gallery-grid.php:80
+#: includes/pdp-gallery-scroll.php:72 includes/pdp-gallery-swiper.php:82
+msgid "Awaiting product image"
+msgstr "商品画像待ち"
+
+#: includes/admin-badge.php:37 includes/admin-badge.php:95
+#: includes/admin-badge.php:188
+msgid "Background color"
+msgstr "背景色"
+
+#: includes/admin-badge.php:33 includes/admin-badge.php:91
+#: includes/admin-badge.php:184
+msgid "Badge text"
+msgstr "バッジテキスト"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Browse from Media Library"
+msgstr "メディアライブラリから探す"
+
+#: includes/modules.php:176
+msgid "Browse wishlist"
+msgstr "ほしい物リストから探す"
+
+#: includes/admin-waitlist.php:72
+msgid "Bulk Actions"
+msgstr "一括行動"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Button"
+msgstr "ボタン"
+
+#: includes/admin-order-bump.php:114
+msgid "Button added"
+msgstr "ボタンを追加しました"
+
+#: includes/admin-waitlist.php:167
+msgid "Button label"
+msgstr "ボタンラベル"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Button style"
+msgstr "ボタンスタイル"
+
+#: includes/admin-order-bump.php:45 includes/admin-order-bump.php:110
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: includes/admin-waitlist.php:83
+msgid "by Product ID:"
+msgstr "商品ID:"
+
+#: includes/admin-attribute-swatches-settings.php:94
+msgid "Cache event being created..."
+msgstr "キャッシュイベント作成中..."
+
+#: includes/admin-attribute-swatches-settings.php:120
+msgid "Cache rebuild complete"
+msgstr "キャッシュ再構築完了"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Cached variable products"
+msgstr "キャッシュされた可変商品"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/admin-countdown-timer.php:216
+msgid "Checkout Countdown"
+msgstr "チェックアウトカウントダウン"
+
+#: includes/admin-support.php:66
+msgid "child theme"
+msgstr "子テーマ"
+
+#: includes/admin-wishlist.php:67
+msgid ""
+"Choose your wishlist page and set it to be full width. Ensure that it is "
+"excluded from any caching solutions."
+msgstr ""
+"欲しいものリストのページを選択し、全幅になるように設定します。キャッシュ手段から"
+"除外されていることを確認してください。"
+
+#: includes/templates/product-attribute-swatches.php:42
+msgid "Clear"
+msgstr "クリア"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Clear and rebuild swatches cache"
+msgstr "スウォッチキャッシュのクリアと再構築"
+
+#: includes/admin-attribute-swatches-settings.php:70
+msgid "Clear Attribute Swatches cache"
+msgstr "属性スウォッチキャッシュのクリア"
+
+#: includes/admin-dashboard.php:37
+msgid "Click Rate"
+msgstr "クリックレート"
+
+#: includes/admin-order-bump.php:46 includes/module-order-bump.php:36
+#: includes/module-order-bump.php:55
+msgid "Click to add"
+msgstr "クリックで追加"
+
+#: includes/commercegurus-attributes-gallery-functions.php:54
+#: includes/commercegurus-attributes-gallery-functions.php:87
+#: includes/commercegurus-gallery-functions.php:54
+#: includes/commercegurus-gallery-functions.php:87
+msgid "click to zoom-in"
+msgstr "クリックで拡大"
+
+#: includes/admin-ajax-search.php:85
+msgid "Clickthrough rate"
+msgstr "クリックスルー率"
+
+#: includes/templates/admin-product-attributes-gallery.php:163
+#: includes/templates/admin-product-video-gallery.php:33
+msgid "Close"
+msgstr "閉じる"
+
+#: includes/admin-dashboard.php:469
+msgid ""
+"Collect emails of interested buyers when your items are sold out. Automatically "
+"notify buyers when back in stock."
+msgstr ""
+"売り切れ時に購入希望者のメールを収集。再入荷時に自動的に購入者に通知します。"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Color"
+msgstr "カラー"
+
+#: includes/admin-settings.php:376
+msgid "CommerceGurus"
+msgstr "CommerceGurus"
+
+#: includes/class-commercegurus-commercekit.php:102
+#, php-format
+msgid ""
+"CommerceGurus CommerceKit - The minimum WooCommerce version required for this "
+"plugin is %1$s. You are running %2$s."
+msgstr ""
+"CommerceGurus CommerceKit - このプラグインに必要な WooCommerce の最小バージョン"
+"は %1$s です。このサイトは %2$s を実行しています。"
+
+#: includes/class-commercegurus-commercekit.php:97
+msgid ""
+"CommerceGurus CommerceKit requires WooCommerce 4.0+ to be activated to work."
+msgstr ""
+"CommerceGurus CommerceKit の動作には、 WooCommerce 4.0+のアクティベーションが必"
+"要です。"
+
+#: includes/admin-dashboard.php:51
+msgid "CommerceKit Features"
+msgstr "CommerceKit の機能"
+
+#: includes/admin-settings.php:1187
+msgid "CommerceKit options"
+msgstr "CommerceKit のオプション"
+
+#: includes/admin-pdp-gallery.php:59
+msgid ""
+"CommerceKit Product Gallery is a lightning fast replacement for the core "
+"WooCommerce product gallery that will significantly improve your Google "
+"PageSpeed Insights scores on product pages."
+msgstr ""
+"CommerceKit の製品ギャラリーは、 コア WooCommerce の製品ギャラリーの光速の代替品"
+"で、 Google PageSpeed の洞察力のスコアを向上させます。"
+
+#: includes/templates/admin-product-attributes-gallery.php:162
+#: includes/templates/admin-product-video-gallery.php:32
+msgid "CommerceKit Product Gallery Video"
+msgstr "CommerceKit 商品ギャラリー動画"
+
+#: includes/admin-attribute-swatches-settings.php:105
+msgid "completed..."
+msgstr "完了..."
+
+#: includes/admin-badge.php:45 includes/admin-badge.php:103
+#: includes/admin-countdown-timer.php:70 includes/admin-countdown-timer.php:147
+#: includes/admin-inventory-bar.php:35 includes/admin-order-bump.php:53
+#: includes/admin-order-bump.php:118
+msgid "Conditions"
+msgstr "条件"
+
+#: includes/admin-dashboard.php:569
+msgid "connect your website"
+msgstr "ウェブサイトをつなぐ"
+
+#: includes/admin-dashboard.php:551
+msgid "Connection status"
+msgstr "接続状況"
+
+#: includes/admin-waitlist.php:168
+msgid "Consent label"
+msgstr "許諾ラベル"
+
+#: includes/admin-support.php:12
+msgid "Contact support"
+msgstr "お問い合わせ先"
+
+#: includes/templates/search.php:23
+msgid "Contents"
+msgstr "コンテンツ"
+
+#: includes/module-free-shipping-notification.php:119
+msgid "Continue Shopping"
+msgstr "ショッピングを続ける"
+
+#: includes/admin-dashboard.php:42
+msgid "Conversion Rate"
+msgstr "コンバージョン率"
+
+#: includes/admin-settings.php:376
+msgid ""
+"Conversion-boosting, performance-focused eCommerce features which work together "
+"seamlessly. From"
+msgstr ""
+"コンバージョンを高める、パフォーマンス重視の EC サイト機能をシームレスに連動。開"
+"発元:"
+
+#: includes/admin-ajax-search.php:99 includes/admin-ajax-search.php:112
+#: includes/admin-wishlist.php:87
+msgid "Count"
+msgstr "カウント"
+
+#: includes/admin-countdown-timer.php:246
+msgid "Countdown Timer"
+msgstr "カウントダウンタイマー"
+
+#: includes/admin-countdown-timer.php:14
+msgid "Countdown Timers"
+msgstr "カウントダウンタイマー"
+
+#: includes/admin-dashboard.php:166 includes/admin-settings.php:383
+msgid "Countdowns"
+msgstr "カウントダウン"
+
+#: includes/admin-settings.php:379
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/admin-waitlist.php:128
+msgid "Date added"
+msgstr "追加日"
+
+#: includes/admin-countdown-timer.php:43 includes/admin-countdown-timer.php:120
+#: includes/admin-countdown-timer.php:129 includes/module-countdown-timer.php:24
+msgid "DAYS"
+msgstr "日"
+
+#: includes/admin-countdown-timer.php:52 includes/admin-countdown-timer.php:129
+msgid "Days"
+msgstr "日"
+
+#: includes/module-countdown-timer.php:30
+msgid "days"
+msgstr "日"
+
+#: includes/admin-badge.php:196
+msgid "Days displayed"
+msgstr "表示日数"
+
+#: includes/admin-size-guide.php:19
+msgid "Default size guide"
+msgstr "既定のサイズガイド"
+
+#: includes/admin-waitlist.php:73
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-attributes-gallery.php:157
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Delete"
+msgstr "削除"
+
+#: includes/admin-countdown-timer.php:195 includes/admin-countdown-timer.php:207
+msgid "Delete Countdown"
+msgstr "カウントダウンを削除"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: includes/admin-order-bump.php:166 includes/admin-order-bump.php:176
+msgid "Delete order bump"
+msgstr "オーダーバンプを削除"
+
+#: includes/admin-badge.php:159 includes/admin-badge.php:170
+msgid "Delete product badge"
+msgstr "商品バッジを削除"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Delete video"
+msgstr "動画を削除"
+
+#: includes/admin-support.php:62
+msgid "Diagnostics"
+msgstr "診断"
+
+#: includes/admin-settings.php:1239
+msgid "Disable inventory bar"
+msgstr "在庫バーを無効にする"
+
+#: includes/admin-settings.php:1236
+msgid "Disable product countdown"
+msgstr "商品カウントダウンを無効にする"
+
+#: includes/admin-settings.php:1232
+msgid "Disable sections"
+msgstr "無効なセクション"
+
+#: includes/admin-settings.php:1242
+msgid "Disable sticky add to cart bar"
+msgstr "カートに入れるバーの固定機能を無効にする"
+
+#: includes/admin-ajax-search.php:97
+msgid "Discover what your users are searching for most."
+msgstr "ユーザーが最もよく検索しているものを発見しましょう。"
+
+#: includes/admin-wishlist.php:85
+msgid "Discover which products are most wished for in your catalog."
+msgstr "カタログで最も望まれている製品を発見しましょう。"
+
+#: includes/admin-ajax-search.php:60
+msgid "Display"
+msgstr "表示"
+
+#: includes/admin-size-guide.php:17
+msgid "Display in search results"
+msgstr "検索結果への表示"
+
+#: includes/admin-free-shipping-notification.php:27
+msgid "Display on the cart page"
+msgstr "カートページでの表示"
+
+#: includes/admin-free-shipping-notification.php:28
+msgid "Display on the mini cart"
+msgstr "ミニカートでの表示"
+
+#: includes/admin-ajax-search.php:67
+msgid "Display out of stock items at the end of the search results"
+msgstr "検索結果の最後に在庫切れの商品を表示する"
+
+#: includes/admin-pdp-gallery.php:26
+msgid "Display product images in a lightbox when clicked on."
+msgstr "クリックするとライトボックスで商品画像を表示する。"
+
+#: includes/admin-attribute-swatches-settings.php:45
+msgid "Display tooltips"
+msgstr "ツールチップを表示する"
+
+#: includes/admin-attribute-swatches-settings.php:45
+msgid "Display tooltips on color and image swatches"
+msgstr "色見本や画像見本にツールチップを表示する"
+
+#: includes/admin-dashboard.php:546
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: includes/admin-support.php:40
+msgid "documentation area"
+msgstr "ドキュメンテーションエリア"
+
+#: includes/admin-pdp-triggers.php:23
+#, php-format
+msgid "e.g. Good choice! %s of buyers were satisfied with this."
+msgstr "例）グッドチョイス!  購入者の %s が満足しています。"
+
+#: includes/admin-countdown-timer.php:38 includes/admin-countdown-timer.php:115
+msgid "e.g. Hurry! This sale ends in"
+msgstr "例）急ぎましょう! このセール期間は"
+
+#: includes/admin-inventory-bar.php:30
+#, php-format
+msgid "e.g. Less than %s items left!"
+msgstr "例）残り在庫は %s 個未満です!"
+
+#: includes/admin-inventory-bar.php:22
+#, php-format
+msgid "e.g. Only %s items left in stock!"
+msgstr "例）在庫はあと %s 個です!"
+
+#: includes/admin-countdown-timer.php:230
+msgid "e.g. Times up! But good news! We&rsquo;ve extended your checkout time :)"
+msgstr "例）時間切れ! でも朗報です、チェックアウト時間を延長しました。"
+
+#: includes/admin-countdown-timer.php:226
+msgid "e.g. Your order is reserved for:"
+msgstr "例）ご注文の予約期間は:"
+
+#: includes/admin-waitlist.php:126
+msgid "Email"
+msgstr "メール"
+
+#: includes/admin-waitlist.php:207 includes/admin-waitlist.php:228
+#: includes/admin-waitlist.php:249
+msgid "Email Content"
+msgstr "メール内容"
+
+#: includes/admin-waitlist.php:166
+msgid "Email placeholder"
+msgstr "メールプレースホルダー"
+
+#: includes/admin-waitlist.php:206 includes/admin-waitlist.php:227
+#: includes/admin-waitlist.php:248
+msgid "Email Subject"
+msgstr "メール件名"
+
+#: includes/admin-waitlist.php:65
+msgid "Emails"
+msgstr "メール"
+
+#: includes/admin-ajax-search.php:58
+#: includes/admin-attribute-swatches-settings.php:44
+#: includes/admin-attribute-swatches-settings.php:60 includes/admin-badge.php:17
+#: includes/admin-countdown-timer.php:17 includes/admin-countdown-timer.php:33
+#: includes/admin-countdown-timer.php:110 includes/admin-countdown-timer.php:221
+#: includes/admin-order-bump.php:17 includes/admin-order-bump.php:33
+#: includes/admin-order-bump.php:91 includes/admin-pdp-attributes-gallery.php:27
+#: includes/admin-pdp-gallery.php:24 includes/admin-pdp-triggers.php:16
+#: includes/admin-size-guide.php:16 includes/admin-waitlist.php:164
+#: includes/admin-waitlist.php:205 includes/admin-waitlist.php:226
+#: includes/admin-waitlist.php:247 includes/admin-wishlist.php:53
+msgid "Enable"
+msgstr "有効にする"
+
+#: includes/admin-ajax-search.php:58
+msgid "Enable Ajax Search in the main search bar"
+msgstr "メイン検索バーにて Ajax Search を有効にする"
+
+#: includes/templates/admin-attribute-swatches.php:72
+msgid "Enable attribute swatches"
+msgstr "属性スウォッチを有効にする"
+
+#: includes/admin-attribute-swatches-settings.php:81
+msgid "Enable Attribute Swatches cache rebuilding logger"
+msgstr "属性スウォッチキャッシュ再構築ログを有効にする"
+
+#: includes/admin-waitlist.php:205
+msgid "Enable automatic emails when the item is back in stock"
+msgstr "商品の再入荷時に自動でメールを送ることができるようにする"
+
+#: includes/admin-countdown-timer.php:222
+msgid "Enable countdown timer on checkout page"
+msgstr "チェックアウトページでカウントダウンタイマーを有効にする"
+
+#: includes/admin-countdown-timer.php:34 includes/admin-countdown-timer.php:111
+msgid "Enable countdown timer on product page"
+msgstr "商品ページでカウントダウンタイマーを有効にする"
+
+#: includes/admin-countdown-timer.php:17
+msgid "Enable countdowns on single product and checkout pages."
+msgstr "単品ページとチェックアウトページでカウントダウンを有効にする。"
+
+#: includes/admin-pdp-gallery.php:26
+msgid "Enable lightbox?"
+msgstr "ライトボックスを有効にしますか？"
+
+#: includes/admin-attribute-swatches-settings.php:81
+msgid "Enable logger"
+msgstr "ログを有効にする"
+
+#: includes/admin-waitlist.php:247
+msgid "Enable mail to the customer when they sign up to a waitlist"
+msgstr "お客様が入荷待ちリストに登録した際にメールを送信できるようにする"
+
+#: includes/admin-waitlist.php:226
+msgid "Enable mails to the store owner when a customer signs up to the waitlist"
+msgstr "顧客が入荷待ちリストに登録した際に、ストアオーナーにメールを送信する"
+
+#: includes/admin-sticky-atc-bar.php:16
+msgid "Enable on desktop"
+msgstr "デスクトップで有効にする"
+
+#: includes/admin-sticky-atc-bar.php:17
+msgid "Enable on mobile"
+msgstr "モバイルで有効にする"
+
+#: includes/admin-order-bump.php:34 includes/admin-order-bump.php:92
+msgid "Enable order bump on checkout"
+msgstr "チェックアウト時にオーダーバンプを有効にする"
+
+#: includes/admin-order-bump.php:17
+msgid "Enable order bumps on checkout page."
+msgstr "チェックアウトページでオーダーバンプを有効にする。"
+
+#: includes/admin-ajax-search.php:62
+msgid "Enable preserve selected tab on next visit"
+msgstr "選択したタブを次回の訪問時に保存するようにする"
+
+#: includes/admin-badge.php:17
+msgid "Enable product badges."
+msgstr "商品バッジを有効にする。"
+
+#: includes/admin-ajax-search.php:61
+msgid "Enable search results tabs"
+msgstr "検索結果タブを有効にする"
+
+#: includes/admin-size-guide.php:16
+msgid "Enable size guides"
+msgstr "サイズガイドを有効にする"
+
+#: includes/admin-inventory-bar.php:16
+msgid "Enable stock meter"
+msgstr "在庫メーターを有効にする"
+
+#: includes/admin-pdp-gallery.php:27
+msgid "Enable video auto play on Product Gallery."
+msgstr "商品ギャラリーで動画の自動再生を有効にする。"
+
+#: includes/admin-pdp-gallery.php:27
+msgid "Enable video auto play?"
+msgstr "動画の自動再生を有効にしますか？"
+
+#: includes/admin-waitlist.php:164
+msgid "Enable waitlist for out of stock products"
+msgstr "在庫切れの商品の入荷待ちリストを有効にする"
+
+#: includes/admin-wishlist.php:53
+msgid "Enable wishlist functionality"
+msgstr "欲しいものリスト機能を有効にする"
+
+#: includes/admin-dashboard.php:245
+msgid ""
+"Enables a customer to add an additional item to the cart, before they complete "
+"an order."
+msgstr "顧客が注文を完了する前に、カートに商品を追加できるようにする。"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid ""
+"Enabling swatches on product listing pages (i.e. the shop, category screens) is "
+"an opinionated feature. This means that it does things in a certain way, based "
+"upon research from top eCommerce DTC brands. This should only be activated if "
+"your catalog contains primarily"
+msgstr ""
+"商品一覧ページ（ショップ、カテゴリー画面など）でスウォッチを有効にすることは、意"
+"見交換のための機能です。これは、トップ EC サイトブランドからの調査に基づいて、特"
+"定の方法で物事を行うことを意味します。これは、当サイトのカタログが主に以下を含ん"
+"でいる場合にのみ有効にしてください"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid ""
+"Enabling this will change how your product listing pages will look and behave "
+"on desktop and mobile. If this is not suitable for your store leave this option"
+msgstr ""
+"このオプションを有効にすると、デスクトップとモバイルでの商品一覧ページの表示と動"
+"作が変更されます。当サイトのストアに適していない場合は、このオプションを"
+
+#: includes/admin-countdown-timer.php:41 includes/admin-countdown-timer.php:118
+#: includes/admin-countdown-timer.php:233
+msgid "Ends"
+msgstr "終了"
+
+#: includes/admin-dashboard.php:281
+msgid ""
+"Enhance key product features, and highlight promotions and products with "
+"limited-time offers."
+msgstr "商品の主要な機能を強化し、期間限定のキャンペーンや商品を強調する。"
+
+#: includes/admin-support.php:40
+msgid "Ensure that you have carefully looked through the "
+msgstr "こちらをよく確認してください: "
+
+#: includes/admin-ajax-search.php:68
+msgid "Enter Product/Page/Post ID&rsquo;s to be excluded, separated by a comma."
+msgstr "除外する製品/ページ/投稿の ID&rsquo;をカンマで区切って入力してください。"
+
+#: includes/admin-waitlist.php:201
+msgid ""
+"Enter recipient that will receive admin notification. Site Administration Email "
+"is default value."
+msgstr ""
+"管理者通知を受け取る受信者を入力します。Site Administration Email がデフォルト値"
+"です。"
+
+#: includes/modules.php:155
+msgid "Enter your email address..."
+msgstr "メールアドレスを入力してください..."
+
+#: includes/admin-support.php:20
+msgid "Enter your first name"
+msgstr "名前を入力してください"
+
+#: includes/module-attribute-swatches.php:424 includes/module-order-bump.php:190
+#: includes/module-wishlist.php:415
+msgid "Error on adding to cart."
+msgstr "カートに入れる際にエラーが発生しました。"
+
+#: includes/admin-settings.php:579
+msgid "Error on saving settings."
+msgstr "設定の保存でエラーが発生しました。"
+
+#: includes/admin-settings.php:310
+msgid "Error on sending email to support team."
+msgstr "サポートチームへのメール送信にエラーが発生しました。"
+
+#: includes/module-waitlist.php:19
+msgid "Error on submitting for waiting list."
+msgstr "ウェイティングリストの送信でエラーが発生しました。"
+
+#: includes/module-wishlist.php:19 includes/module-wishlist.php:135
+msgid "Error on submitting for wishlist list."
+msgstr "欲しいものリストに登録する際にエラーが発生しました。"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "Evergreen"
+msgstr "エバーグリーン"
+
+#: includes/admin-countdown-timer.php:59 includes/admin-countdown-timer.php:136
+msgid "Evergreen sets a dynamic countdown timer for each visitor"
+msgstr ""
+"エバーグリーンは、訪問者ごとにダイナミックなカウントダウンタイマーを設定します"
+
+#: includes/admin-ajax-search.php:66 includes/admin-ajax-search.php:68
+msgid "Exclude"
+msgstr "除く"
+
+#: includes/admin-free-shipping-notification.php:33
+msgid "Exclude shipping classes"
+msgstr "送料クラスを除く"
+
+#: includes/admin-sticky-atc-bar.php:18
+msgid "Expand tabs"
+msgstr "タブを展開する"
+
+#: includes/admin-countdown-timer.php:229
+msgid "Expiry Message"
+msgstr "有効期限メッセージ"
+
+#: includes/admin-waitlist.php:74
+msgid "Export"
+msgstr "エクスポート"
+
+#: includes/admin-waitlist.php:77
+msgid "Filter by Mail sent:"
+msgstr "送信されたメールによるフィルタリング:"
+
+#: includes/admin-support.php:19
+msgid "First name"
+msgstr "名"
+
+#: includes/admin-support.php:40
+msgid "first."
+msgstr "最初。"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Fluid (better for long labels)"
+msgstr "フルード（長尺ラベルに適している）"
+
+#: includes/admin-attribute-swatches-settings.php:73
+msgid ""
+"For large product catalogs, displaying swatches on your archive/product listing "
+"pages can cause performance and speed issues especially when if you manage "
+"inventory at the variation/SKU level. To solve this we create a dedicated "
+"swatches cache which means your PLP pages load lightning fast even for products "
+"with lots of variations."
+msgstr ""
+"大規模な商品カタログの場合、アーカイブ/商品リストページで見本を表示すると、特に"
+"バリエーション/ SKU レベルで在庫を管理している場合、パフォーマンスとスピードの問"
+"題が発生することがあります。これを解決するために、私たちは専用のスウォッチキャッ"
+"シュを作成し、多くのバリエーションを持つ製品であっても、PLPページの読み込みが非"
+"常に速くなるようにしています。"
+
+#: includes/admin-dashboard.php:203
+#: includes/admin-free-shipping-notification.php:23
+#: includes/admin-free-shipping-notification.php:60
+#: includes/admin-settings.php:384
+msgid "Free Shipping Notification"
+msgstr "送料無料のお知らせ"
+
+#: includes/admin-waitlist.php:196
+msgid "From Email"
+msgstr "From メール"
+
+#: includes/admin-waitlist.php:197
+msgid "From Name"
+msgstr "From 名前"
+
+#: includes/admin-dashboard.php:98
+msgid ""
+"Further improve your gallery with the ability to assign images on an attribute "
+"basis."
+msgstr ""
+"画像を属性ごとに割り当てる機能で、ギャラリーをさらに充実させることができます。"
+
+#: includes/modules.php:127
+#: includes/templates/admin-product-attributes-gallery.php:95
+#: includes/templates/admin-product-attributes-gallery.php:160
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: includes/admin-pdp-gallery.php:28
+msgid "Gallery layout"
+msgstr "ギャラリーレイアウト"
+
+#: includes/admin-sticky-atc-bar.php:19
+msgid "Gallery tab title"
+msgstr "ギャラリータブのタイトル"
+
+#: includes/modules.php:131
+msgid "Get <strong>free shipping</strong> for orders over {free_shipping_amount}"
+msgstr ""
+"{free_shipping_amount} 以上のご注文の場合には <strong>送料無料</strong> となりま"
+"す。"
+
+#: includes/modules.php:159
+msgid "Get notified"
+msgstr "通知を受ける"
+
+#: includes/admin-settings.php:1213
+msgid "Global default"
+msgstr "グローバルデフォルト"
+
+#: includes/templates/admin-product-attributes-gallery.php:18
+msgid "Global Gallery"
+msgstr "グローバルギャラリー"
+
+#: includes/templates/admin-product-attributes-gallery.php:35
+msgid "Global gallery"
+msgstr "グローバルギャラリー"
+
+#: includes/admin-pdp-triggers.php:19 includes/module-pdp-triggers.php:35
+#, php-format
+msgid "Good choice! %s of buyers were satisfied with this."
+msgstr "例）グッドチョイス!  購入者の %s が満足しています。"
+
+#: includes/admin-pdp-gallery.php:36 includes/admin-settings.php:1219
+msgid "Grid: 1 col, 2 cols, 2 cols"
+msgstr "グリッド：1列、2列、2列"
+
+#: includes/admin-pdp-gallery.php:34 includes/admin-settings.php:1217
+msgid "Grid: 2 cols x 4 rows"
+msgstr "グリッド：2列、4行"
+
+#: includes/admin-pdp-gallery.php:35 includes/admin-settings.php:1218
+msgid "Grid: 3 cols, 1 col, 2 cols"
+msgstr "グリッド：3 列, 1 列, 2 行"
+
+#: includes/modules.php:171
+msgid ""
+"Hi,\n"
+"We have received your waiting list request from {site_name} for the following:\n"
+"Product Name: {product_title}, SKU: {product_sku}\n"
+"Product link: {product_link}\n"
+"\n"
+"We will send you an email once this item is back in stock."
+msgstr ""
+"こんにちは。\n"
+"{site_name} から、以下のように入荷待ちリクエストを頂いております。\n"
+"商品名: {product_title}, SKU: {product_sku}\n"
+"商品ページリンク: {product_link}\n"
+"\n"
+"この商品が再入荷されましたら、メールでお知らせいたします。"
+
+#: includes/modules.php:168
+msgid ""
+"Hi,\n"
+"You got a waiting list request from {site_name} ({site_url}) for the "
+"following:\n"
+"Customer email: {customer_email}\n"
+"Product Name: {product_title}, SKU: {product_sku}\n"
+"Product link: {product_link}"
+msgstr ""
+"こんにちは。\n"
+"{site_name} ({site_url}) から以下のような入荷待ちリクエストを受けました。\n"
+"お客様のメールアドレス: {customer_email}\n"
+"商品名: {product_title}, SKU: {product_sku}\n"
+"商品ページのリンク: {product_link}"
+
+#: includes/modules.php:165
+msgid ""
+"Hi,\n"
+"{product_title} is now back in stock on {site_name}.\n"
+"You have been sent this email because your email address was registered in a "
+"waiting list for this product.\n"
+"If you would like to purchase {product_title}, please visit the following "
+"link:\n"
+"{product_link}"
+msgstr ""
+"こんにちは。\n"
+"{product_title} が {site_name} に再入荷しました。\n"
+"お客様のメールアドレスがこの商品の入荷待ちリストに登録されていたため、このメール"
+"が送信されました。\n"
+"{product_title} を購入したい場合は、以下のリンクにアクセスしてください:\n"
+"{product_link}"
+
+#: includes/templates/admin-attribute-swatches.php:58
+msgid "Hide this attribute in the product loop"
+msgstr "商品ループでこの属性を隠す"
+
+#: includes/admin-ajax-search.php:69
+msgid "Hide variations"
+msgstr "バリエーションを隠す"
+
+#: includes/admin-ajax-search.php:69
+msgid "Hide variations from search suggestions"
+msgstr "検索候補からバリエーションを非表示にする"
+
+#: includes/admin-inventory-bar.php:32
+msgid "High stock text"
+msgstr "高在庫テキスト"
+
+#: includes/admin-inventory-bar.php:33
+msgid "High stock threshold"
+msgstr "高い在庫の基準値"
+
+#: includes/admin-pdp-gallery.php:31 includes/admin-settings.php:1214
+msgid "Horizontal"
+msgstr "ホリゾンタル"
+
+#: includes/admin-countdown-timer.php:44 includes/admin-countdown-timer.php:53
+#: includes/admin-countdown-timer.php:121 includes/admin-countdown-timer.php:130
+msgid "HOURS"
+msgstr "時"
+
+#: includes/admin-countdown-timer.php:53 includes/admin-countdown-timer.php:130
+msgid "Hours"
+msgstr "時"
+
+#: includes/module-countdown-timer.php:31
+msgid "hours"
+msgstr "時間"
+
+#: includes/admin-ajax-search.php:82
+msgid "How many searches have been performed."
+msgstr "検索の回数。"
+
+#: includes/admin-wishlist.php:80
+msgid "How many wishlists have been created."
+msgstr "作成された欲しいものリストの数。"
+
+#: includes/module-countdown-timer.php:25
+msgid "HRS"
+msgstr "時間"
+
+#: includes/modules.php:157
+msgid "I consent to being contacted by the store owner"
+msgstr "ショップ管理者からの連絡に同意する"
+
+#: includes/admin-waitlist.php:140
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin-support.php:42
+msgid "If you are including code, please use: "
+msgstr "コードを含む場合、こちらを使用してください: "
+
+#: includes/admin-support.php:42
+msgid "If you are including screenshots, try using: "
+msgstr "スクリーンショットを含む場合、こちらを使用してみてください: "
+
+#: includes/admin-support.php:66
+msgid "If you make customizations it&rsquo;s a good idea to use a"
+msgstr "カスタマイズを行う場合、これらを使用することをお勧めします"
+
+#: includes/admin-dashboard.php:356 includes/admin-size-guide.php:52
+msgid ""
+"If your products require sizing, this feature is crucial. It helps reduce "
+"costly returns, and improves the consumer experience."
+msgstr ""
+"サイズが必要な製品の場合、この機能は非常に重要です。返品を減らし、消費者の体験を"
+"向上させることができます。"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Image"
+msgstr "画像"
+
+#: includes/admin-dashboard.php:25
+msgid "Impressions"
+msgstr "インプレッション"
+
+#: includes/admin-dashboard.php:142
+msgid "Improved usability"
+msgstr "ユーザビリティの向上"
+
+#: includes/admin-dashboard.php:215 includes/admin-dashboard.php:288
+#: includes/admin-dashboard.php:403
+msgid "Improves conversions"
+msgstr "コンバージョンを向上させる"
+
+#: includes/admin-dashboard.php:105
+msgid "Improves gallery usability"
+msgstr "ギャラリーの使い勝手を向上させる"
+
+#: includes/module-wishlist.php:371
+msgid "In Stock"
+msgstr "在庫あり"
+
+#: includes/admin-dashboard.php:82 includes/admin-dashboard.php:119
+#: includes/admin-dashboard.php:156 includes/admin-dashboard.php:189
+#: includes/admin-dashboard.php:228 includes/admin-dashboard.php:266
+#: includes/admin-dashboard.php:301 includes/admin-dashboard.php:338
+#: includes/admin-dashboard.php:376 includes/admin-dashboard.php:416
+#: includes/admin-dashboard.php:452 includes/admin-dashboard.php:488
+#: includes/admin-dashboard.php:525
+msgid "Inactive"
+msgstr "無効"
+
+#: includes/admin-ajax-search.php:66
+msgid "Include"
+msgstr "含む"
+
+#: includes/admin-dashboard.php:208
+msgid ""
+"Increase order revenue by showing your customers just how close they are to "
+"your free shipping threshold."
+msgstr "送料無料になるまでの時間を表示することで、注文数を増やすことができます。"
+
+#: includes/admin-free-shipping-notification.php:29
+msgid "Initial message"
+msgstr "初期メッセージ"
+
+#: includes/templates/admin-product-attributes-gallery.php:144
+#: includes/templates/admin-product-video-gallery.php:26
+msgid "Insert or replace the current video URL."
+msgstr "現在の動画 URL を挿入または置換します。"
+
+#: includes/admin-dashboard.php:64
+msgid ""
+"Instant search suggestions helps customers save time and find products faster."
+msgstr ""
+"瞬時に検索候補が表示されるため、お客様は時間を節約し、より早く商品を見つけること"
+"ができます。"
+
+#: includes/admin-waitlist.php:165
+msgid "Introduction"
+msgstr "はじめに"
+
+#: includes/admin-pdp-gallery.php:61
+msgid ""
+"It is the first WooCommerce Product Gallery extension built specifically for "
+"web performance optimization which is now a key Google ranking signal."
+msgstr ""
+"これは、 Google の重要なランキングシグナルであるWebパフォーマンスの最適化のため"
+"に特別に作られた、初の WooCommerce 商品ギャラリー 拡張機能です。"
+
+#: includes/admin-waitlist.php:88
+msgid "items"
+msgstr "個"
+
+#: includes/modules.php:156
+msgid "Join waiting list"
+msgstr "順番待ちリストに参加"
+
+#: includes/admin-ajax-search.php:60
+msgid "Just products"
+msgstr "商品のみ"
+
+#: includes/admin-badge.php:29 includes/admin-badge.php:85
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/admin-countdown-timer.php:50 includes/admin-countdown-timer.php:127
+msgid "Labels"
+msgstr "ラベル"
+
+#: includes/admin-attribute-swatches-settings.php:124
+msgid "Last log message"
+msgstr "最後のログメッセージ"
+
+#: includes/admin-attribute-swatches-settings.php:74
+msgid "Learn more"
+msgstr "詳細はこちら"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "learn more"
+msgstr "さらに詳しく"
+
+#: includes/modules.php:148
+#, php-format
+msgid "Less than %s items left!"
+msgstr "残り %s 個 以下！"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "let us know"
+msgstr "問い合わせください"
+
+#: includes/admin-waitlist.php:63
+msgid "List"
+msgstr "リスト"
+
+#: includes/pdp-attributes-gallery-grid.php:700
+#: includes/pdp-attributes-gallery-grid.php:754 includes/pdp-gallery-grid.php:573
+msgid "Load more images"
+msgstr "画像をもっと読み込む"
+
+#: includes/admin-dashboard.php:70
+msgid "Loads on all pages"
+msgstr "すべてのページで読み込む"
+
+#: includes/admin-dashboard.php:215
+msgid "Loads on cart page and mini cart"
+msgstr "カートページとミニカートで読み込む"
+
+#: includes/admin-dashboard.php:142 includes/admin-dashboard.php:288
+msgid "Loads on product and catalog pages"
+msgstr "商品ページ、カタログページで読み込む"
+
+#: includes/admin-dashboard.php:177
+msgid "Loads on product and checkout pages"
+msgstr "商品ページとチェックアウトページで読み込む"
+
+#: includes/admin-dashboard.php:105 includes/admin-dashboard.php:363
+#: includes/admin-dashboard.php:403 includes/admin-dashboard.php:439
+#: includes/admin-dashboard.php:476
+msgid "Loads on product pages"
+msgstr "製品ページで読み込む"
+
+#: includes/admin-dashboard.php:252
+msgid "Loads on the checkout"
+msgstr "チェックアウトで読み込む"
+
+#: includes/admin-dashboard.php:511
+msgid "Loads on WooCommerce pages"
+msgstr "WooCommerce ページで読み込む"
+
+#: includes/admin-inventory-bar.php:18
+msgid "Low stock text"
+msgstr "低在庫テキスト"
+
+#: includes/admin-inventory-bar.php:24
+msgid "Low stock threshold"
+msgstr "低在庫の閾値"
+
+#: includes/admin-waitlist.php:129
+msgid "Mail sent"
+msgstr "メール送信済み"
+
+#: includes/admin-size-guide.php:17
+msgid "Make size guide pages findable within search results."
+msgstr "サイズガイドのページを検索結果でも表示する。"
+
+#: includes/admin-pdp-triggers.php:17
+msgid "Minimum number of reviews"
+msgstr "最低レビュー数"
+
+#: includes/admin-pdp-triggers.php:17
+#, php-format
+#| msgid ""
+#| "Minimum number of reviews required before it is displayed. The average "
+#| "rating needs to be 70&#37; or greater."
+msgid ""
+"Minimum number of reviews required before it is displayed. The average rating "
+"needs to be 70% or greater."
+msgstr ""
+"表示されるまでに必要な最低レビュー数。平均評価が70%以上である必要があります。"
+
+#: includes/module-countdown-timer.php:26
+msgid "MINS"
+msgstr "分"
+
+#: includes/admin-countdown-timer.php:54 includes/admin-countdown-timer.php:131
+msgid "Mins"
+msgstr "分"
+
+#: includes/admin-countdown-timer.php:45 includes/admin-countdown-timer.php:54
+#: includes/admin-countdown-timer.php:122 includes/admin-countdown-timer.php:131
+#: includes/admin-countdown-timer.php:235
+msgid "MINUTES"
+msgstr "分"
+
+#: includes/module-countdown-timer.php:32
+msgid "minutes"
+msgstr "分"
+
+#: includes/modules.php:120
+msgid "More options"
+msgstr "その他のオプション"
+
+#: includes/admin-attribute-swatches-settings.php:66
+msgid "More options label"
+msgstr "その他のオプションラベル"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "more suitable to your catalog."
+msgstr "でより当カタログに適したソリューションを確認しましょう。"
+
+#: includes/admin-ajax-search.php:96
+msgid "Most frequent searches"
+msgstr "最も頻繁に検索される項目"
+
+#: includes/admin-ajax-search.php:109
+msgid "Most frequent searches returning 0 results"
+msgstr "最も頻繁に検索され、0件が返される検索内容"
+
+#: includes/admin-wishlist.php:84
+msgid "Most popular products"
+msgstr "最も人気のある商品"
+
+#: includes/module-wishlist.php:470 includes/module-wishlist.php:487
+msgid "My wishlist"
+msgstr "ほしい物リスト"
+
+#: includes/admin-badge.php:179
+msgid "New product badge"
+msgstr "新しい商品バッジ"
+
+#: includes/admin-badge.php:185 includes/modules.php:140
+msgid "New!"
+msgstr "New!"
+
+#: includes/admin-support.php:66 includes/admin-waitlist.php:81
+#: includes/admin-waitlist.php:142
+msgid "No"
+msgstr "いいえ"
+
+#: includes/admin-size-guide.php:19
+msgid "No default size guide set"
+msgstr "既定のサイズガイドが設定されていません"
+
+#: includes/admin-waitlist.php:149
+msgid "No Items"
+msgstr "商品がありません"
+
+#: includes/admin-wishlist.php:106
+msgid "No products"
+msgstr "商品がありません"
+
+#: includes/module-wishlist.php:390
+msgid "No products in your wishlist"
+msgstr "ほしい物リストに商品がありません"
+
+#: includes/admin-ajax-search.php:90
+msgid "No result rate"
+msgstr "結果率なし"
+
+#: includes/modules.php:101
+msgid "No results"
+msgstr "結果がありません"
+
+#: includes/module-attribute-swatches.php:146
+#: includes/module-attribute-swatches.php:204
+msgid "No selection"
+msgstr "未選択"
+
+#: includes/admin-ajax-search.php:105 includes/admin-ajax-search.php:118
+msgid "No terms"
+msgstr "条件なし"
+
+#: includes/admin-free-shipping-notification.php:53
+msgid ""
+"Note: If you adjust these settings you may need to add or remove an item from "
+"your cart to see the changes."
+msgstr ""
+"注: これらの設定を変更した場合、変更を確認するために、カートから商品を追加または"
+"削除する必要がある場合があります。"
+
+#: includes/admin-ajax-search.php:121 includes/admin-wishlist.php:111
+msgid "NOTE: Report data is updated every 24 hours."
+msgstr "注：レポートデータは24時間ごとに更新されます。"
+
+#: includes/admin-wishlist.php:51
+msgid ""
+"Note: You will need to create a wishlist page and include this shortcode on it "
+"- [commercegurus_wishlist]"
+msgstr ""
+"注: ほしい物リストページを作成し、そのページにこのショートコードを挿入する必要が"
+"あります - [commercegurus_wishlist]"
+
+#: includes/admin-waitlist.php:201
+msgid "Notification recipient"
+msgstr "通知先"
+
+#: includes/modules.php:154
+msgid "Notify me when the item is back in stock."
+msgstr "商品の再入荷をお知らせしてください。"
+
+#: includes/admin-badge.php:197
+msgid "Number of days to display the badge from the date the product was added."
+msgstr "商品が追加された日からバッジを表示する日数。"
+
+#: includes/admin-pdp-gallery.php:25
+msgid ""
+"Number of gallery thumbnails to display at a time. Minimum 3 and maximum 8."
+msgstr "一度に表示するギャラリーのサムネイルの数。最小で3、最大で8です。"
+
+#: includes/admin-waitlist.php:104
+msgid "of"
+msgstr "のうち"
+
+#: includes/admin-pdp-attributes-gallery.php:18
+msgid ""
+"On a WooCommerce product page, if you have a product with two attributes, say "
+"\"Size\" and \"Color\", you ordinarily need to make a selection from both "
+"attributes before the gallery image updates."
+msgstr ""
+"WooCommerce の商品ページで、例えば「サイズ」と「カラー」の2つの属性を持つ商品が"
+"ある場合、通常、ギャラリー画像が更新される前に両方の属性から選択する必要がありま"
+"す。"
+
+#: includes/admin-sticky-atc-bar.php:34
+msgid ""
+"On desktop, the add to cart button attaches to the sticky tabs bar upon "
+"scrolling."
+msgstr ""
+"デスクトップでは、スクロールすると、カートに入れるボタンが固定タブバーにくっつき"
+"ます。"
+
+#: includes/admin-attribute-swatches-settings.php:74
+msgid ""
+"On larger catalogs this cache can take some time to build when you first "
+"activate this feature. We use the WooCommerce Action Scheduler to ensure long "
+"running cache building tasks can be run in the background over time."
+msgstr ""
+"大規模なカタログでは、最初にこの機能を有効にしたときに、このキャッシュの構築に時"
+"間がかかることがあります。 WooCommerce Action Scheduler を利用して、長時間かかる"
+"キャッシュ構築タスクをバックグラウンドで実行できるようにします。"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "One-time"
+msgstr "1回"
+
+#: includes/modules.php:146
+#, php-format
+msgid "Only %s items left in stock!"
+msgstr "残り%s点 ご注文はお早めに！"
+
+#: includes/admin-pdp-attributes-gallery.php:36
+msgid ""
+"Optimize your product page gallery by assigning images on an attribute basis. "
+"Once configured, visitors will see an updated gallery image when a single "
+"attribute has been selected."
+msgstr ""
+"属性ごとに画像を割り当てることで、商品ページのギャラリーを最適化することができま"
+"す。一度設定すると、訪問者は、単一の属性が選択されたときに更新されたギャラリー画"
+"像を見ることができます。"
+
+#: includes/admin-dashboard.php:543
+msgid ""
+"Optimize your WooCommerce store for speed and conversions with Shoptimizer. "
+"Shoptimizer is a FAST WooCommerce theme that comes with a ton of features all "
+"designed to help you convert more users to customers."
+msgstr ""
+"Shoptimizer でスピードとコンバージョンのためにあなたの WooCommerce ショップを最"
+"適化しましょう。 Shoptimizer は、より多くのユーザーを顧客に変換するために設計さ"
+"れた多数機能が付属している高速な WooCommerce テーマです。"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "or look at an"
+msgstr "または"
+
+#: includes/admin-dashboard.php:239 includes/admin-order-bump.php:14
+#: includes/admin-order-bump.php:188 includes/admin-settings.php:385
+msgid "Order Bump"
+msgstr "オーダーバンプ"
+
+#: includes/admin-dashboard.php:13
+msgid "Order Bump Statistics"
+msgstr "オーダーバンプ統計"
+
+#: includes/admin-order-bump.php:23
+msgid "Order Bumps"
+msgstr "オーダーバンプ"
+
+#: includes/modules.php:100
+msgid "Other results"
+msgstr "他の結果"
+
+#: includes/admin-pdp-attributes-gallery.php:20
+msgid ""
+"Our new attributes gallery allows you to assign images to a single attribute. "
+"So when a user selects \"Blue\", the Blue gallery immediately appears. No need "
+"to select a size."
+msgstr ""
+"新しい属性ギャラリーでは、1つの属性に画像を割り当てることができます。つまり、"
+"ユーザーが「ブルー」を選択すると、すぐにブルーギャラリーが表示されます。サイズを"
+"選択する必要はありません。"
+
+#: includes/module-wishlist.php:371
+msgid "Out of Stock"
+msgstr "在庫切れ"
+
+#: includes/module-attribute-swatches.php:145
+#: includes/templates/product-attribute-swatches.php:18
+msgid "Out of stock"
+msgstr "在庫切れ"
+
+#: includes/admin-ajax-search.php:66
+msgid "Out of stock products"
+msgstr "在庫切れの商品"
+
+#: includes/admin-ajax-search.php:67
+msgid "Out of stock results order"
+msgstr "在庫切れの結果注文"
+
+#: includes/module-ajax-search.php:201
+msgid "Page"
+msgstr "ページ"
+
+#: includes/admin-pdp-triggers.php:32
+msgid "PDP Sales Triggers"
+msgstr "PDP販売トリガー"
+
+#: includes/admin-settings.php:391
+msgid "PDP Triggers"
+msgstr "PDPトリガー"
+
+#: includes/admin-ajax-search.php:59
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: includes/admin-waitlist.php:196
+msgid ""
+"Please add a valid from email that ends with your domain to prevent spam mails."
+msgstr ""
+"スパムメール防止のため、当サイトドメインで終わる有効な From メールを追加してくだ"
+"さい。"
+
+#: includes/admin-waitlist.php:197
+msgid "Please add a valid from name to prevent spam mails."
+msgstr "スパムメール防止のため、有効な From 名を追加してください。"
+
+#: includes/admin-waitlist.php:201
+msgid "Please add a valid recipient email for admin notification."
+msgstr "管理者に通知するために、有効な受信者メールアドレスを追加してください。"
+
+#: includes/admin-pdp-gallery.php:25
+msgid "Please enter number between 3 and 8."
+msgstr "3~8までの数字を入力してください。"
+
+#: includes/admin-settings.php:616
+msgid "Please select at least one waitlist to delete."
+msgstr "削除する入荷待ちリストを1つ以上選択してください。"
+
+#: includes/admin-waitlist.php:197
+msgid "plugin."
+msgstr "プラグイン。"
+
+#: includes/module-ajax-search.php:199
+msgid "Post"
+msgstr "ポスト"
+
+#: includes/admin-ajax-search.php:62
+msgid "Preserve selected tab"
+msgstr "選択したタブを保持する"
+
+#: includes/module-wishlist.php:328
+msgid "Price"
+msgstr "価格"
+
+#: includes/admin-attribute-swatches-settings.php:105
+msgid "Processing cache event."
+msgstr "キャッシュイベントを処理中。"
+
+#: includes/admin-waitlist.php:127 includes/admin-wishlist.php:87
+#: includes/module-wishlist.php:327
+msgid "Product"
+msgstr "商品"
+
+#: includes/modules.php:175
+msgid "Product added"
+msgstr "商品を追加されました"
+
+#: includes/admin-badge.php:23
+msgid "Product Badge"
+msgstr "商品バッジ"
+
+#: includes/admin-badge.php:14 includes/admin-badge.php:214
+#: includes/admin-dashboard.php:276 includes/admin-settings.php:386
+msgid "Product Badges"
+msgstr "商品バッジ"
+
+#: includes/admin-badge.php:215
+msgid ""
+"Product badges can enhance customer understanding of key product features, "
+"highlight promotions and products with limited-time offers, improve the click-"
+"through rate and many more conversion-boosting benefits."
+msgstr ""
+"商品バッジは、商品の主要な機能の理解を深め、期間限定のキャンペーンや商品を強調"
+"し、クリックスルー率を向上させるなど、コンバージョンを高めるさまざまな効果が期待"
+"できます。"
+
+#: includes/module-size-guide.php:53
+msgid "Product categories"
+msgstr "商品カテゴリー"
+
+#: includes/module-size-guide.php:77
+msgid "Product categories:"
+msgstr "商品カテゴリー:"
+
+#: includes/module-ajax-search.php:146
+msgid "Product Category"
+msgstr "商品カテゴリー"
+
+#: includes/admin-countdown-timer.php:23
+msgid "Product Countdown"
+msgstr "商品カウントダウン"
+
+#: includes/admin-pdp-triggers.php:12 includes/admin-pdp-triggers.php:16
+msgid "Product Details Page Sales Triggers"
+msgstr "商品詳細ページ販売トリガー"
+
+#: includes/admin-dashboard.php:311 includes/admin-pdp-gallery.php:12
+#: includes/admin-pdp-gallery.php:24 includes/admin-pdp-gallery.php:58
+#: includes/admin-settings.php:387
+msgid "Product Gallery"
+msgstr "商品ギャラリー"
+
+#: includes/admin-settings.php:1211
+msgid "Product gallery layout"
+msgstr "商品ギャラリーレイアウト"
+
+#: includes/module-wishlist.php:169
+msgid "Product removed"
+msgstr "商品を削除しました"
+
+#: includes/module-ajax-search.php:149
+msgid "Product Tag"
+msgstr "商品タグ"
+
+#: includes/admin-waitlist.php:277
+msgid ""
+"Product waitlists are used to notify interested shoppers when sold-out products "
+"are back in stock. This module collects data on customers who sign up."
+msgstr ""
+"商品入荷待ちリストは、完売した商品が再入荷した際に、関心のある買い物客に通知する"
+"ために使用されます。このモジュールは、加入した顧客のデータを収集します。"
+
+#: includes/module-size-guide.php:54 includes/templates/search.php:22
+#: includes/templates/search.php:242
+msgid "Products"
+msgstr "商品"
+
+#: includes/module-size-guide.php:97
+msgid "Products:"
+msgstr "商品:"
+
+#: includes/admin-free-shipping-notification.php:32
+msgid "Progress bar color"
+msgstr "プログレスバーの色"
+
+#: includes/admin-free-shipping-notification.php:30
+msgid "Progress message"
+msgstr "進捗状況メッセージ"
+
+#: includes/admin-support.php:39
+msgid "Question"
+msgstr "質問"
+
+#: includes/admin-support.php:34
+msgid "Question title"
+msgstr "質問題名"
+
+#: includes/modules.php:119
+msgid "Quick add"
+msgstr "クイック追加"
+
+#: includes/admin-attribute-swatches-settings.php:62
+msgid "Quick add to cart"
+msgstr "クイックカート追加"
+
+#: includes/admin-attribute-swatches-settings.php:64
+msgid "Quick add to cart label"
+msgstr "クイックカート追加ラベル"
+
+#: includes/admin-dashboard.php:324
+msgid "Read more"
+msgstr "もっと読む"
+
+#: includes/admin-waitlist.php:170
+msgid "Read more label"
+msgstr "もっと読むラベル"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "Read our blog post to"
+msgstr "ブログ記事にて"
+
+#: includes/admin-dashboard.php:363
+msgid "Reduces returns"
+msgstr "返品を減らす"
+
+#: includes/admin-inventory-bar.php:26
+msgid "Regular stock text"
+msgstr "通常の在庫テキスト"
+
+#: includes/admin-inventory-bar.php:31
+msgid "Regular stock threshold"
+msgstr "通常在庫の基準値"
+
+#: includes/templates/admin-product-attributes-gallery.php:112
+#: includes/templates/admin-product-attributes-gallery.php:158
+#: includes/templates/admin-product-attributes-gallery.php:164
+#: includes/templates/admin-product-video-gallery.php:34
+msgid "Remove"
+msgstr "削除"
+
+#: includes/admin-sticky-atc-bar.php:18
+msgid "Removes the tabs and shows the contents one after another"
+msgstr "タブを削除し、コンテンツを次々に表示する"
+
+#: includes/admin-dashboard.php:135
+msgid ""
+"Replace standard variation dropdowns with color, image, and button swatches."
+msgstr ""
+"標準的なバリエーションのドロップダウンを、色、画像、ボタンのスウォッチに置き換え"
+"ることができます。"
+
+#: includes/admin-support.php:25
+msgid "Replies will be sent to this address"
+msgstr "返信はこのアドレスに送られます"
+
+#: includes/admin-ajax-search.php:46 includes/admin-wishlist.php:40
+msgid "Reports"
+msgstr "レポート"
+
+#: includes/admin-ajax-search.php:127
+msgid ""
+"Research has shown that instant search results are an important feature on "
+"eCommerce sites. It helps users save time and find products faster."
+msgstr ""
+"調査によると、検索結果がすぐに表示されることは、 EC サイトの重要な機能であること"
+"が判明しています。ユーザーが時間を節約し、より早く商品を見つけることができるから"
+"です。"
+
+#: includes/admin-dashboard.php:29
+msgid "Revenue"
+msgstr "収益"
+
+#: includes/admin-pdp-gallery.php:18
+msgid ""
+"Right now CommerceKit Product Gallery is disabled by default, but has been "
+"tested heavily on live WooCommerce stores. It is compatible with WooCommerce "
+"variation images, and with our own Attribute Swatches module. You should "
+"evaluate CommerceKit Product Gallery on a test or staging environment first."
+msgstr ""
+"現在、 CommerceKit 商品ギャラリー はデフォルトでは無効になっていますが、 "
+"WooCommerce ストアでは十分なテストが行われています。 WooCommerce のバリエーショ"
+"ン画像や、私たち独自の属性スウォッチモジュールと互換性があります。まずはテスト環"
+"境またはステージング環境で CommerceKit 商品ギャラリー を評価してください。"
+
+#: includes/templates/admin-product-attributes-gallery.php:165
+#: includes/templates/admin-product-video-gallery.php:35
+msgid "Save Video"
+msgstr "動画保存"
+
+#: includes/modules.php:96
+msgid "Search products..."
+msgstr "商品を検索…"
+
+#: includes/templates/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: includes/admin-countdown-timer.php:46 includes/admin-countdown-timer.php:55
+#: includes/admin-countdown-timer.php:123 includes/admin-countdown-timer.php:132
+#: includes/admin-countdown-timer.php:236
+msgid "SECONDS"
+msgstr "秒"
+
+#: includes/module-countdown-timer.php:33
+msgid "seconds"
+msgstr "秒"
+
+#: includes/module-countdown-timer.php:27
+msgid "SECS"
+msgstr "秒"
+
+#: includes/admin-countdown-timer.php:55 includes/admin-countdown-timer.php:132
+msgid "Secs"
+msgstr "秒"
+
+#: includes/admin-order-bump.php:37 includes/admin-order-bump.php:95
+msgid "Select"
+msgstr "選択"
+
+#: includes/module-size-guide.php:77
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+#: includes/module-wishlist.php:378
+msgid "Select Options"
+msgstr "オプションを選択"
+
+#: includes/module-size-guide.php:97
+msgid "Select product"
+msgstr "商品を選択"
+
+#: includes/admin-free-shipping-notification.php:33
+msgid "Select shipping class"
+msgstr "配送クラスを選択する"
+
+#: includes/module-waitlist.php:356
+msgid ""
+"Select your desired options and click on the \"Get notified\" button to be "
+"alerted when new stock arrives."
+msgstr ""
+"ご希望のオプションを選択し、「通知を受ける」ボタンをクリックすると、新入荷のお知"
+"らせが届きます。"
+
+#: includes/admin-settings.php:614
+msgid "Selected waitlist has been deleted."
+msgstr "選択された入荷待ちリストが削除されました。"
+
+#: includes/admin-ajax-search.php:45 includes/admin-waitlist.php:64
+#: includes/admin-wishlist.php:39
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin-settings.php:356 includes/admin-settings.php:584
+msgid "Settings have been saved."
+msgstr "設定は保存されました。"
+
+#: includes/admin-free-shipping-notification.php:61
+msgid ""
+"Shipping costs are one of the major reasons shoppers abandon their cart. If you "
+"offer free shipping above a certain threshold, you can make this more prominent "
+"by enabling this module."
+msgstr ""
+"送料は買い物客がカートを放棄する大きな理由の1つです。もし、ある一定以上の送料を"
+"無料にしている場合、このモジュールを有効にすることで、より目立つようにすることが"
+"できます。"
+
+#: includes/admin-dashboard.php:504
+msgid "Shoppers can create personalized collections of products they want to buy."
+msgstr ""
+"お客様は自分が買いたい商品を集めたパーソナライズドコレクションを作成できます。"
+
+#: includes/admin-support.php:63
+msgid "Shoptimizer is not active"
+msgstr "Shoptimizer が有効化でありません"
+
+#: includes/admin-support.php:63
+msgid "Shoptimizer version"
+msgstr "Shoptimizer バージョン"
+
+#: includes/admin-pdp-gallery.php:17
+msgid "Should I enable CommerceKit Product Gallery?"
+msgstr "CommerceKit 商品ギャラリーは有効にした方がいいですか？"
+
+#: includes/pdp-attributes-gallery-grid.php:700
+#: includes/pdp-attributes-gallery-grid.php:754 includes/pdp-gallery-grid.php:573
+msgid "Show less images"
+msgstr "表示画像を減らす"
+
+#: includes/admin-badge.php:63 includes/admin-badge.php:152
+#: includes/admin-badge.php:200
+msgid "Show on catalog"
+msgstr "カタログで表示"
+
+#: includes/templates/admin-attribute-swatches.php:68
+msgid "Show on product loop"
+msgstr "商品ループに表示"
+
+#: includes/admin-badge.php:67 includes/admin-badge.php:156
+#: includes/admin-badge.php:204
+msgid "Show on product pages"
+msgstr "商品ページに表示"
+
+#: includes/admin-inventory-bar.php:16
+msgid "Show stock meter on the single product page"
+msgstr "単品ページで在庫メーターを表示"
+
+#: includes/module-sticky-atc-bar.php:60
+#: includes/templates/commercekit-tabs.php:56
+#: includes/templates/commercekit-tabs.php:91
+msgid "Sign up"
+msgstr "登録する"
+
+#: includes/admin-pdp-gallery.php:38 includes/admin-settings.php:1221
+msgid "Simple scroll"
+msgstr "シンプルスクロール"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "Single Campaign"
+msgstr "単発キャンペーン"
+
+#: includes/module-size-guide.php:19
+msgid "Size Guide"
+msgstr "サイズガイド"
+
+#: includes/modules.php:137
+msgid "Size guide"
+msgstr "サイズガイド"
+
+#: includes/admin-size-guide.php:18
+msgid "Size guide label"
+msgstr "サイズガイドのラベル"
+
+#: includes/admin-dashboard.php:351 includes/admin-settings.php:388
+#: includes/admin-size-guide.php:12 includes/admin-size-guide.php:51
+#: includes/module-size-guide.php:18
+msgid "Size Guides"
+msgstr "サイズガイド"
+
+#: includes/module-waitlist.php:365
+msgid "sold out?"
+msgstr "売り切れ?"
+
+#: includes/admin-badge.php:51 includes/admin-badge.php:118
+#: includes/admin-countdown-timer.php:76 includes/admin-countdown-timer.php:162
+#: includes/admin-inventory-bar.php:50 includes/admin-order-bump.php:59
+#: includes/admin-order-bump.php:133
+msgid "Specific categories"
+msgstr "特定のカテゴリー"
+
+#: includes/admin-badge.php:127 includes/admin-countdown-timer.php:171
+#: includes/admin-inventory-bar.php:59 includes/admin-order-bump.php:142
+msgid "Specific categories:"
+msgstr "特定のカテゴリー:"
+
+#: includes/admin-badge.php:49 includes/admin-badge.php:58
+#: includes/admin-badge.php:116 includes/admin-countdown-timer.php:74
+#: includes/admin-countdown-timer.php:83 includes/admin-countdown-timer.php:160
+#: includes/admin-inventory-bar.php:48 includes/admin-order-bump.php:57
+#: includes/admin-order-bump.php:131
+msgid "Specific products"
+msgstr "特定商品"
+
+#: includes/admin-order-bump.php:66
+msgid "Specific products:"
+msgstr "特定商品:"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Square"
+msgstr "四角"
+
+#: includes/admin-attribute-swatches-settings.php:87
+msgid "Starting cache rebuild shortly..."
+msgstr "まもなくキャッシュの再構築を開始します..."
+
+#: includes/admin-dashboard.php:391 includes/admin-settings.php:389
+#: includes/admin-sticky-atc-bar.php:12 includes/admin-sticky-atc-bar.php:32
+msgid "Sticky Add to Cart"
+msgstr "スティッキーカートに入れる"
+
+#: includes/admin-dashboard.php:427 includes/admin-inventory-bar.php:12
+#: includes/admin-inventory-bar.php:90 includes/admin-settings.php:390
+msgid "Stock Meter"
+msgstr "在庫メーター"
+
+#: includes/module-wishlist.php:329
+msgid "Stock Status"
+msgstr "在庫状況"
+
+#: includes/admin-support.php:45
+msgid "Submit ticket"
+msgstr "チケットの提出"
+
+#: includes/admin-free-shipping-notification.php:31
+#: includes/admin-waitlist.php:169
+msgid "Success message"
+msgstr "成功メッセージ"
+
+#: includes/module-attribute-swatches.php:433 includes/module-order-bump.php:211
+#: includes/module-wishlist.php:429
+msgid "Sucessfully added to cart."
+msgstr "商品をカートに追加しました。"
+
+#: includes/admin-support.php:35
+msgid "Summarize your question in a few words"
+msgstr "質問を簡単に纏めてください"
+
+#: includes/admin-settings.php:395
+msgid "Support"
+msgstr "サポート"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "support ticket"
+msgstr "サポートチケット"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "switched off"
+msgstr "無効化にする"
+
+#: includes/admin-ajax-search.php:61
+msgid "Tabbed search results"
+msgstr "タブ型検索結果"
+
+#: includes/admin-ajax-search.php:99 includes/admin-ajax-search.php:112
+msgid "Term"
+msgstr "用語"
+
+#: includes/admin-badge.php:41 includes/admin-badge.php:99
+#: includes/admin-badge.php:192
+msgid "Text color"
+msgstr "テキストの色"
+
+#: includes/admin-ajax-search.php:87
+#, php-format
+msgid "The % of searches that resulted in a click."
+msgstr "検索結果のうち、クリックに至った割合。"
+
+#: includes/admin-ajax-search.php:92
+#, php-format
+msgid "The % of searches that returned no results."
+msgstr "検索結果のうち、結果が得られなかったものの割合。"
+
+#: includes/admin-attribute-swatches-settings.php:126
+msgid "The caching process apparently succeeded and is now complete"
+msgstr "キャッシュ処理は成功し、現在は完了しています"
+
+#: includes/admin-attribute-swatches-settings.php:132
+#: includes/admin-attribute-swatches.php:629
+msgid "The caching process has been cancelled."
+msgstr "キャッシング処理がキャンセルされました。"
+
+#: includes/class-commercegurus-commercekit.php:141
+msgid "The domain name to check."
+msgstr "確認するドメイン名。"
+
+#: includes/admin-countdown-timer.php:23
+msgid ""
+"The order of the countdowns is important. Drag a countdown to the top to take "
+"precedence."
+msgstr ""
+"カウントダウンの順番は重要です。カウントダウンを一番上にドラッグすると優先されま"
+"す。"
+
+#: includes/admin-settings.php:605
+msgid "There are no waitlists to export."
+msgstr "エクスポートする入荷待ちリストがありません。"
+
+#: includes/admin-attribute-swatches-settings.php:135
+msgid ""
+"There are some products has not been cached. Please click on above &ldquo;Clear "
+"and rebuild swatches cache&rdquo; button to rebuild all products or please wait "
+"for 15 to 20 minutes to rebuild automatically only missing products."
+msgstr ""
+"キャッシュされていない商品があります。上記の「スウォッチキャッシュのクリアと再構"
+"築」ボタンをクリックして、すべての製品を再構築するか、15~20分待って、見つからな"
+"い商品のみを自動的に再構築してください。"
+
+#: includes/admin-sticky-atc-bar.php:33
+msgid ""
+"This feature adds a sticky add to cart button which is fixed to the bottom of "
+"the viewport on mobile. Mobile conversions are crucial and displaying a call to "
+"action at all times on PDPs will boost sales."
+msgstr ""
+"この機能は、モバイルではビューポートの下部に固定されるスティッキーなカートへに入"
+"れるボタンを追加します。モバイルでのコンバージョンは非常に重要であり、PDP上で常"
+"にアクションへの呼び出しを表示することで、売上を向上させることができます。"
+
+#: includes/admin-countdown-timer.php:247
+msgid ""
+"This feature allows you to run time-limited promotions to create urgency and "
+"drive more clicks from your single product pages to create more sales. You can "
+"also add one to the checkout page to encourage faster completion."
+msgstr ""
+"この機能により、時間限定のプロモーションを実施して緊急性を高め、単一商品ページか"
+"らのクリックを促進し、より多くの売上を生み出すことができます。また、チェックアウ"
+"トページに追加することで、より早い完了を促すことも可能です。"
+
+#: includes/admin-inventory-bar.php:91
+msgid ""
+"This feature allows you to show a stock meter counter on the single product "
+"page. It&lsquo;s a more visually effective way to alert customers when the "
+"stock level is low."
+msgstr ""
+"この機能により、単品ページで在庫計カウンターを表示することができます。在庫が少な"
+"くなったときに、より視覚的に効果的にお客様にお知らせすることができます。"
+
+#: includes/admin-pdp-triggers.php:33
+msgid ""
+"This feature allows you to show conversion triggers on the single product page. "
+"It displays a percentage satisfaction rating based on the number of reviews and "
+"the average rating."
+msgstr ""
+"単品ページでコンバージョントリガーを表示できる機能です。レビュー数と平均評価をも"
+"とにした満足度パーセンテージを表示します。"
+
+#: includes/admin-badge.php:172 includes/admin-countdown-timer.php:209
+#: includes/admin-order-bump.php:178
+msgid "This field is required"
+msgstr "このフィールドは必須です"
+
+#: includes/admin-pdp-attributes-gallery.php:22
+msgid ""
+"This is far more usable and powerful than the standard WooCommerce "
+"implementation and is inline with how best-in-class eCommerce stores display "
+"variations."
+msgstr ""
+"WooCommerce の標準的な実装よりもはるかに使いやすく強力で、最高クラスの EC サイト"
+"のバリエーションの表示方法と一致しています。"
+
+#: includes/admin-order-bump.php:38 includes/admin-order-bump.php:103
+msgid ""
+"This is the order bump product which will appear on the checkout page. Simple "
+"and variable products only."
+msgstr ""
+"チェックアウトページに表示されるオーダーバンプ商品です。シンプル商品とバリエー"
+"ションのある商品のみ。"
+
+#: includes/modules.php:150
+msgid "This item is selling fast!"
+msgstr "この商品は売れています！"
+
+#: includes/admin-countdown-timer.php:29 includes/admin-countdown-timer.php:37
+#: includes/admin-countdown-timer.php:104 includes/admin-countdown-timer.php:114
+#: includes/admin-countdown-timer.php:225 includes/admin-order-bump.php:29
+#: includes/admin-order-bump.php:41 includes/admin-order-bump.php:85
+#: includes/admin-order-bump.php:106
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/admin-dashboard.php:569
+msgid "to find out more."
+msgstr "をご覧ください。"
+
+#: includes/admin-waitlist.php:197
+msgid "To improve the deliverability of these mails"
+msgstr "これらのメールの配信性を向上させるために"
+
+#: includes/admin-pdp-gallery.php:20
+msgid ""
+"To report any issues or if there is a specific extension you would like us to "
+"make compatible with CommerceKit Product Gallery"
+msgstr ""
+"問題点を報告したり、CommerceKit 商品ギャラリーとの互換性を確保するための特定の拡"
+"張機能がある場合はご連絡ください"
+
+#: includes/admin-dashboard.php:569
+msgid "to your Shoptimizer subscription."
+msgstr "を Shoptimizer のサブスクリプションに追加してください。"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Total cached variable products"
+msgstr "キャッシュされたバリエーションのある商品の合計"
+
+#: includes/admin-ajax-search.php:80
+msgid "Total searches"
+msgstr "検索数合計"
+
+#: includes/admin-attribute-swatches-settings.php:79
+msgid "Total variable products"
+msgstr "バリエーションのある商品の合計"
+
+#: includes/admin-wishlist.php:78
+msgid "Total wishlists"
+msgstr "欲しいものリストの合計"
+
+#: includes/admin-pdp-triggers.php:19
+msgid "Trigger text"
+msgstr "トリガーテキスト"
+
+#: includes/admin-countdown-timer.php:59 includes/admin-countdown-timer.php:136
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/admin-dashboard.php:569
+msgid "update guide"
+msgstr "アップデートガイド"
+
+#: includes/admin-support.php:29
+msgid "URL"
+msgstr "URL"
+
+#: includes/admin-ajax-search.php:110
+msgid "Users are searching for these queries and encounter no results."
+msgstr "ユーザーはこれらのクエリで検索しても、結果が出ていません。"
+
+#: includes/admin-support.php:66
+msgid "Using a child theme?"
+msgstr "子テーマを使用していますか?"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid "variable products"
+msgstr "バリエーションのある商品"
+
+#: includes/admin-pdp-gallery.php:32 includes/admin-settings.php:1215
+msgid "Vertical left"
+msgstr "縦型左"
+
+#: includes/admin-pdp-gallery.php:33 includes/admin-settings.php:1216
+msgid "Vertical right"
+msgstr "縦型右"
+
+#: includes/admin-pdp-gallery.php:37 includes/admin-settings.php:1220
+msgid "Vertical scroll"
+msgstr "縦スクロール"
+
+#: includes/templates/admin-product-attributes-gallery.php:140
+#: includes/templates/admin-product-video-gallery.php:22
+msgid "Video"
+msgstr "動画"
+
+#: includes/modules.php:102
+msgid "View all results"
+msgstr "結果をすべて見る"
+
+#: includes/admin-dashboard.php:548
+msgid "View Documentation"
+msgstr "ドキュメンテーションを確認する"
+
+#: includes/module-wishlist.php:381
+msgid "View Product"
+msgstr "商品を見る"
+
+#: includes/admin-dashboard.php:569
+msgid "View the"
+msgstr "を見る"
+
+#: includes/admin-pdp-gallery.php:25
+msgid "Visible thumbnails"
+msgstr "表示可能なサムネイル"
+
+#: includes/admin-dashboard.php:547
+msgid ""
+"Visit the documentation area for a more detailed overview on each of these "
+"features. If you still have questions, you can send us a private ticket by "
+"clicking the Support link."
+msgstr ""
+"各機能のより詳細な概要については、ドキュメントエリアをご覧ください。それでもまだ"
+"ご不明な点がある場合は、「サポート」リンクをクリックしてプライベートチケットをお"
+"送りください。"
+
+#: includes/admin-dashboard.php:463 includes/admin-settings.php:392
+#: includes/admin-waitlist.php:276
+msgid "Waitlist"
+msgstr "入荷待ちリスト"
+
+#: includes/admin-waitlist.php:193
+msgid "Waitlist Emails"
+msgstr "入荷待ちリストのメール"
+
+#: includes/admin-waitlist.php:161
+msgid "Waitlist Settings"
+msgstr "入荷待ちリストの設定"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "We couldn't create the cache event. For assistance, copy and paste the"
+msgstr ""
+"キャッシュイベントを作成できませんでした。支援として、コピー &amp; ペーストで"
+
+#: includes/admin-sticky-atc-bar.php:26
+msgid ""
+"We have included an \"Expand tabs\" option. Important information hidden within "
+"the default WooCommerce tabs can be missed by customers. Collapsing the "
+"contents of the tabs underneath each other makes the content more discoverable, "
+"particularly when scrolling on mobile. The \"Gallery tab title\" displays an "
+"additional anchor tab which scrolls back to the main summary area of the PDP."
+msgstr ""
+"「タブを展開する」オプションを搭載しました。デフォルトの WooCommerce タブの中に"
+"隠された重要な情報は、お客様が見逃してしまう可能性があります。タブの内容を互いの"
+"下に折りたたむことで、特にモバイルでスクロールしているときに、コンテンツをより発"
+"見しやすくなります。「ギャラリータブのタイトル」は、商品説明ページの基本情報エリ"
+"アにスクロールするアンカータブを追加します。"
+
+#: includes/modules.php:170
+msgid "We have received your waiting list request"
+msgstr "ほしい物リストのリクエストを受け付けました"
+
+#: includes/admin-waitlist.php:197
+msgid "we recommend you install the"
+msgstr "をインストールすることをお勧めします"
+
+#: includes/admin-pdp-attributes-gallery.php:17
+msgid "What is the CommerceKit Attributes Gallery?"
+msgstr "CommerceKit 属性ギャラリーとは？"
+
+#: includes/admin-dashboard.php:498 includes/admin-settings.php:393
+#: includes/admin-wishlist.php:117 includes/module-wishlist.php:77
+#: includes/module-wishlist.php:79 includes/module-wishlist.php:167
+#: includes/module-wishlist.php:211 includes/module-wishlist.php:214
+#: includes/module-wishlist.php:251 includes/module-wishlist.php:253
+#: includes/module-wishlist.php:349 includes/module-wishlist.php:376
+msgid "Wishlist"
+msgstr "ほしい物リスト"
+
+#: includes/admin-wishlist.php:57
+msgid "Wishlist page"
+msgstr "ほしい物リストページ"
+
+#: includes/admin-wishlist.php:44
+msgid "Wishlist Reports"
+msgstr "ほしい物リストレポート"
+
+#: includes/admin-wishlist.php:47
+msgid "Wishlist Settings"
+msgstr "ほしい物リスト設定"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "WooCommerce System Report"
+msgstr "WooCommerce システムレポート"
+
+#: includes/admin-support.php:65
+msgid "WooCommerce version"
+msgstr "WooCommerce バージョン"
+
+#: includes/admin-support.php:64
+msgid "WordPress version"
+msgstr "WordPress バージョン"
+
+#: includes/admin-waitlist.php:197
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: includes/admin-support.php:66 includes/admin-waitlist.php:80
+#: includes/admin-waitlist.php:142
+msgid "Yes"
+msgstr "はい"
+
+#: includes/modules.php:167
+msgid "You have a new waiting list request on {site_name}"
+msgstr "{site_name} にて新しい入荷待ち利子とのリクエストがあります。"
+
+#: includes/modules.php:158
+msgid "You have been added to the waiting list for this product!"
+msgstr "この商品の順番待ちリストに加わりました！"
+
+#: includes/admin-dashboard.php:569
+msgid ""
+"You have not enabled one-click updates for Shoptimizer and CommerceKit. To do "
+"so, please"
+msgstr ""
+"Shoptimizer と CommerceKitのワンクリックアップデートが有効になっていません。これ"
+"を行うには、以下を実行してください"
+
+#: includes/modules.php:239
+msgid ""
+"You will need to first disable the YITH Wishlist plugin in order to use the "
+"CommerceKit Wishlist feature."
+msgstr ""
+"CommerceKit の Wishlist 機能を利用するためには、まず YITH Wishlist プラグインを"
+"無効にする必要があります。"
+
+#: includes/admin-support.php:24
+msgid "Your email"
+msgstr "メールアドレス"
+
+#: includes/admin-settings.php:308
+msgid "Your email has been sent to our support team."
+msgstr "メールをサポートチームに送信されました。"
+
+#: includes/modules.php:133
+msgid "Your order qualifies for free shipping! 🥳"
+msgstr "ご注文は送料無料になります 🥳"
+
+#: includes/admin-dashboard.php:560
+msgid ""
+"Your website is connected! One click updates for Shoptimizer will appear in "
+"Appearance &rarr; Themes."
+msgstr ""
+"このウェブサイトを接続しました! Shoptimizerのワンクリック更新は、外観 &rarr; "
+"Themesに表示されます。"
+
+#: includes/templates/admin-product-attributes-gallery.php:141
+#: includes/templates/admin-product-video-gallery.php:23
+msgid "Youtube, Vimeo or video url (.mp4 format only) allowed."
+msgstr "Youtube、Vimeo、または動画 URL （.mp4形式のみ） 可。"
+
+#: includes/templates/admin-product-attributes-gallery.php:141
+#: includes/templates/admin-product-video-gallery.php:23
+msgid "Youtube, Vimeo or video url (.mp4)"
+msgstr "Youtube、Vimeoまたは動画の URL （.mp4） 。"
+
+#: includes/modules.php:132
+msgid "👋 You're {remaining} away from free shipping."
+msgstr "👋 残り {remaining} で送料無料になります。"
